@@ -1,0 +1,27 @@
+GRAPHS :-
+0 - BFS of graph
+1 - DFS in a graph
+2 - given a graph check if cycle present or not(with dfs & disjoint set both)
+3 - given a graph check whether there exist a path btw 2 vertices u and v;
+4 - check whether a graph is bipartite.
+5 - prims algo, kruskals algo, dijktra algo
+6 - bellman ford
+7 - floyd warshall
+8 - topological sort
+
+GREEDY :-
+1 - activity selection problem(greedy).
+2 - fractional knapsack.
+3 - job sequencing
+
+
+DP :-
+1 - 0/1 knapsack (recursive & dp)
+2 - find the lcs(longest common subsequence)
+3 - fibonacci
+4 - climbing stairs problem, subset sum, rod cutting problem, coin change 
+
+others:-
+->  find majority element(in o(n) time comp.) - moore's voting algo
+->  kth largest/smallest element(priority queue)
+->  find frequency of a key in array if present in o(n) - binary search
